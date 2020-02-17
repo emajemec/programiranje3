@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\bin\Debug\netcoreapp2.1\Goljufivi_pek.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\bin\Debug\netcoreapp2.1\Goljufivi_pek.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\bin\Debug\netcoreapp2.1\Goljufivi_pek.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\bin\Debug\netcoreapp2.1\Goljufivi_pek.dll
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\bin\Debug\netcoreapp2.1\Goljufivi_pek.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\obj\Debug\netcoreapp2.1\Goljufivi_pek.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\obj\Debug\netcoreapp2.1\Goljufivi_pek.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\obj\Debug\netcoreapp2.1\Goljufivi_pek.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\obj\Debug\netcoreapp2.1\Goljufivi_pek.dll
+U:\3.letnik\programiranje3\vaje_17_2\Goljufivi_pek\obj\Debug\netcoreapp2.1\Goljufivi_pek.pdb

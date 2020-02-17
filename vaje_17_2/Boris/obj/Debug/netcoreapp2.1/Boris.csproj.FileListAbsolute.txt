@@ -1,0 +1,11 @@
+U:\3.letnik\programiranje3\vaje_17_2\Boris\bin\Debug\netcoreapp2.1\Boris.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Boris\bin\Debug\netcoreapp2.1\Boris.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Boris\bin\Debug\netcoreapp2.1\Boris.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Boris\bin\Debug\netcoreapp2.1\Boris.dll
+U:\3.letnik\programiranje3\vaje_17_2\Boris\bin\Debug\netcoreapp2.1\Boris.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Boris\obj\Debug\netcoreapp2.1\Boris.csprojAssemblyReference.cache
+U:\3.letnik\programiranje3\vaje_17_2\Boris\obj\Debug\netcoreapp2.1\Boris.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Boris\obj\Debug\netcoreapp2.1\Boris.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Boris\obj\Debug\netcoreapp2.1\Boris.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Boris\obj\Debug\netcoreapp2.1\Boris.dll
+U:\3.letnik\programiranje3\vaje_17_2\Boris\obj\Debug\netcoreapp2.1\Boris.pdb

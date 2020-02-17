@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\bin\Debug\netcoreapp2.1\Piton_na_obisku.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\bin\Debug\netcoreapp2.1\Piton_na_obisku.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\bin\Debug\netcoreapp2.1\Piton_na_obisku.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\bin\Debug\netcoreapp2.1\Piton_na_obisku.dll
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\bin\Debug\netcoreapp2.1\Piton_na_obisku.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\obj\Debug\netcoreapp2.1\Piton_na_obisku.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\obj\Debug\netcoreapp2.1\Piton_na_obisku.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\obj\Debug\netcoreapp2.1\Piton_na_obisku.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\obj\Debug\netcoreapp2.1\Piton_na_obisku.dll
+U:\3.letnik\programiranje3\vaje_17_2\Piton_na_obisku\obj\Debug\netcoreapp2.1\Piton_na_obisku.pdb

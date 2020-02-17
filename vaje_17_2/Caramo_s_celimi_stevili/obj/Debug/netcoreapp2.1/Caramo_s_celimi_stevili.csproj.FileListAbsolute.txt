@@ -1,0 +1,11 @@
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\bin\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\bin\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\bin\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\bin\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.dll
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\bin\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\obj\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.csprojAssemblyReference.cache
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\obj\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\obj\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\obj\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\obj\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.dll
+U:\3.letnik\programiranje3\vaje_17_2\Caramo_s_celimi_stevili\obj\Debug\netcoreapp2.1\Caramo_s_celimi_stevili.pdb
