@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\bin\Debug\netcoreapp2.1\Pozri_nicle.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\bin\Debug\netcoreapp2.1\Pozri_nicle.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\bin\Debug\netcoreapp2.1\Pozri_nicle.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\bin\Debug\netcoreapp2.1\Pozri_nicle.dll
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\bin\Debug\netcoreapp2.1\Pozri_nicle.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\obj\Debug\netcoreapp2.1\Pozri_nicle.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\obj\Debug\netcoreapp2.1\Pozri_nicle.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\obj\Debug\netcoreapp2.1\Pozri_nicle.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\obj\Debug\netcoreapp2.1\Pozri_nicle.dll
+U:\3.letnik\programiranje3\vaje_17_2\Pozri_nicle\obj\Debug\netcoreapp2.1\Pozri_nicle.pdb

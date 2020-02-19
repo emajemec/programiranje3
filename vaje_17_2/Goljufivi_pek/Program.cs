@@ -13,7 +13,7 @@ namespace Goljufivi_pek
             int stevecNapacnih = 0;
             double minTeza = tezaPredpis * 0.8;
             double maxTeza = tezaPredpis * 1.2;
-            for (int i = 1; i < steviloHlebcev; i++)
+            for (int i = 1; i <= steviloHlebcev; i++)
             {
                 Console.WriteLine("Vnesi težo: " + i + ". hlebca");
                 double dejanskaTeza = double.Parse(Console.ReadLine());
@@ -23,10 +23,10 @@ namespace Goljufivi_pek
             }
             //računamo ali bo pek pil vodo
             if (stevecNapacnih > steviloHlebcev * 0.15)
-                Console.WriteLine("Peka v vodo takoj!!!!");
+                Console.WriteLine("Pek se bo namakal.");
             else
                 Console.WriteLine("Pek ima dobro mero");
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }

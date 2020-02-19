@@ -1,0 +1,11 @@
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\bin\Debug\netcoreapp2.1\Tarifa.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\bin\Debug\netcoreapp2.1\Tarifa.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\bin\Debug\netcoreapp2.1\Tarifa.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\bin\Debug\netcoreapp2.1\Tarifa.dll
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\bin\Debug\netcoreapp2.1\Tarifa.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\obj\Debug\netcoreapp2.1\Tarifa.csprojAssemblyReference.cache
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\obj\Debug\netcoreapp2.1\Tarifa.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\obj\Debug\netcoreapp2.1\Tarifa.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\obj\Debug\netcoreapp2.1\Tarifa.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\obj\Debug\netcoreapp2.1\Tarifa.dll
+U:\3.letnik\programiranje3\vaje_17_2\Tarifa\obj\Debug\netcoreapp2.1\Tarifa.pdb

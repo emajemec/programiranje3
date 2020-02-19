@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\bin\Debug\netcoreapp2.1\Oddities.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\bin\Debug\netcoreapp2.1\Oddities.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\bin\Debug\netcoreapp2.1\Oddities.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\bin\Debug\netcoreapp2.1\Oddities.dll
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\bin\Debug\netcoreapp2.1\Oddities.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\obj\Debug\netcoreapp2.1\Oddities.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\obj\Debug\netcoreapp2.1\Oddities.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\obj\Debug\netcoreapp2.1\Oddities.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\obj\Debug\netcoreapp2.1\Oddities.dll
+U:\3.letnik\programiranje3\vaje_17_2\Oddities\obj\Debug\netcoreapp2.1\Oddities.pdb

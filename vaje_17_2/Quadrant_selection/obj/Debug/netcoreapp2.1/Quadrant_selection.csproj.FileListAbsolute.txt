@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\bin\Debug\netcoreapp2.1\Quadrant_selection.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\bin\Debug\netcoreapp2.1\Quadrant_selection.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\bin\Debug\netcoreapp2.1\Quadrant_selection.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\bin\Debug\netcoreapp2.1\Quadrant_selection.dll
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\bin\Debug\netcoreapp2.1\Quadrant_selection.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\obj\Debug\netcoreapp2.1\Quadrant_selection.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\obj\Debug\netcoreapp2.1\Quadrant_selection.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\obj\Debug\netcoreapp2.1\Quadrant_selection.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\obj\Debug\netcoreapp2.1\Quadrant_selection.dll
+U:\3.letnik\programiranje3\vaje_17_2\Quadrant_selection\obj\Debug\netcoreapp2.1\Quadrant_selection.pdb

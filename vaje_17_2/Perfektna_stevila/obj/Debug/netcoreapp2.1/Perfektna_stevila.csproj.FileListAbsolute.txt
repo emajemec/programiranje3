@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\bin\Debug\netcoreapp2.1\Perfektna_stevila.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\bin\Debug\netcoreapp2.1\Perfektna_stevila.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\bin\Debug\netcoreapp2.1\Perfektna_stevila.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\bin\Debug\netcoreapp2.1\Perfektna_stevila.dll
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\bin\Debug\netcoreapp2.1\Perfektna_stevila.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\obj\Debug\netcoreapp2.1\Perfektna_stevila.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\obj\Debug\netcoreapp2.1\Perfektna_stevila.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\obj\Debug\netcoreapp2.1\Perfektna_stevila.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\obj\Debug\netcoreapp2.1\Perfektna_stevila.dll
+U:\3.letnik\programiranje3\vaje_17_2\Perfektna_stevila\obj\Debug\netcoreapp2.1\Perfektna_stevila.pdb

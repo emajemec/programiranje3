@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\bin\Debug\netcoreapp2.1\Piece_of_cake.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\bin\Debug\netcoreapp2.1\Piece_of_cake.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\bin\Debug\netcoreapp2.1\Piece_of_cake.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\bin\Debug\netcoreapp2.1\Piece_of_cake.dll
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\bin\Debug\netcoreapp2.1\Piece_of_cake.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\obj\Debug\netcoreapp2.1\Piece_of_cake.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\obj\Debug\netcoreapp2.1\Piece_of_cake.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\obj\Debug\netcoreapp2.1\Piece_of_cake.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\obj\Debug\netcoreapp2.1\Piece_of_cake.dll
+U:\3.letnik\programiranje3\vaje_17_2\Piece_of_cake\obj\Debug\netcoreapp2.1\Piece_of_cake.pdb

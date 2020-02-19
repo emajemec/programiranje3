@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\bin\Debug\netcoreapp2.1\Stuck_in_a_time_loop.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\bin\Debug\netcoreapp2.1\Stuck_in_a_time_loop.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\bin\Debug\netcoreapp2.1\Stuck_in_a_time_loop.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\bin\Debug\netcoreapp2.1\Stuck_in_a_time_loop.dll
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\bin\Debug\netcoreapp2.1\Stuck_in_a_time_loop.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\obj\Debug\netcoreapp2.1\Stuck_in_a_time_loop.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\obj\Debug\netcoreapp2.1\Stuck_in_a_time_loop.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\obj\Debug\netcoreapp2.1\Stuck_in_a_time_loop.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\obj\Debug\netcoreapp2.1\Stuck_in_a_time_loop.dll
+U:\3.letnik\programiranje3\vaje_17_2\Stuck_in_a_time_loop\obj\Debug\netcoreapp2.1\Stuck_in_a_time_loop.pdb

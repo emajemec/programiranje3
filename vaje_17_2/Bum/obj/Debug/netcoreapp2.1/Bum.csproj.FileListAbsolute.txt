@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Bum\bin\Debug\netcoreapp2.1\Bum.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Bum\bin\Debug\netcoreapp2.1\Bum.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Bum\bin\Debug\netcoreapp2.1\Bum.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Bum\bin\Debug\netcoreapp2.1\Bum.dll
+U:\3.letnik\programiranje3\vaje_17_2\Bum\bin\Debug\netcoreapp2.1\Bum.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Bum\obj\Debug\netcoreapp2.1\Bum.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Bum\obj\Debug\netcoreapp2.1\Bum.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Bum\obj\Debug\netcoreapp2.1\Bum.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Bum\obj\Debug\netcoreapp2.1\Bum.dll
+U:\3.letnik\programiranje3\vaje_17_2\Bum\obj\Debug\netcoreapp2.1\Bum.pdb

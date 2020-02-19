@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\bin\Debug\netcoreapp2.1\Obrni_stevilo.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\bin\Debug\netcoreapp2.1\Obrni_stevilo.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\bin\Debug\netcoreapp2.1\Obrni_stevilo.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\bin\Debug\netcoreapp2.1\Obrni_stevilo.dll
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\bin\Debug\netcoreapp2.1\Obrni_stevilo.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\obj\Debug\netcoreapp2.1\Obrni_stevilo.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\obj\Debug\netcoreapp2.1\Obrni_stevilo.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\obj\Debug\netcoreapp2.1\Obrni_stevilo.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\obj\Debug\netcoreapp2.1\Obrni_stevilo.dll
+U:\3.letnik\programiranje3\vaje_17_2\Obrni_stevilo\obj\Debug\netcoreapp2.1\Obrni_stevilo.pdb

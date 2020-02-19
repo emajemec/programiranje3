@@ -1,0 +1,10 @@
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\bin\Debug\netcoreapp2.1\Cold_puter_science.deps.json
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\bin\Debug\netcoreapp2.1\Cold_puter_science.runtimeconfig.json
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\bin\Debug\netcoreapp2.1\Cold_puter_science.runtimeconfig.dev.json
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\bin\Debug\netcoreapp2.1\Cold_puter_science.dll
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\bin\Debug\netcoreapp2.1\Cold_puter_science.pdb
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\obj\Debug\netcoreapp2.1\Cold_puter_science.csproj.CoreCompileInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\obj\Debug\netcoreapp2.1\Cold_puter_science.AssemblyInfoInputs.cache
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\obj\Debug\netcoreapp2.1\Cold_puter_science.AssemblyInfo.cs
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\obj\Debug\netcoreapp2.1\Cold_puter_science.dll
+U:\3.letnik\programiranje3\vaje_17_2\Cold_puter_science\obj\Debug\netcoreapp2.1\Cold_puter_science.pdb
