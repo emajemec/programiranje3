@@ -1,0 +1,11 @@
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\bin\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.exe
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\bin\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.deps.json
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\bin\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.runtimeconfig.json
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\bin\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.runtimeconfig.dev.json
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\bin\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.dll
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\bin\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.pdb
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\obj\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.csprojAssemblyReference.cache
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\obj\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.AssemblyInfoInputs.cache
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\obj\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.AssemblyInfo.cs
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\obj\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.dll
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Pi_in_Monte_Carlo\obj\Debug\netcoreapp3.1\Pi_in_Monte_Carlo.pdb

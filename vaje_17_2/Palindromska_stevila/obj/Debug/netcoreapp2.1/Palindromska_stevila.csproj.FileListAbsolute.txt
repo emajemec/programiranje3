@@ -8,3 +8,13 @@ U:\3.letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.
 U:\3.letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.AssemblyInfo.cs
 U:\3.letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.dll
 U:\3.letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.pdb
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\bin\Debug\netcoreapp2.1\Palindromska_stevila.deps.json
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\bin\Debug\netcoreapp2.1\Palindromska_stevila.runtimeconfig.json
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\bin\Debug\netcoreapp2.1\Palindromska_stevila.runtimeconfig.dev.json
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\bin\Debug\netcoreapp2.1\Palindromska_stevila.dll
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\bin\Debug\netcoreapp2.1\Palindromska_stevila.pdb
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.csprojAssemblyReference.cache
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.AssemblyInfoInputs.cache
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.AssemblyInfo.cs
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.dll
+C:\Users\Ema\Desktop\MAT\3. letnik\programiranje3\vaje_17_2\Palindromska_stevila\obj\Debug\netcoreapp2.1\Palindromska_stevila.pdb
