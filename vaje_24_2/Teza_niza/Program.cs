@@ -16,7 +16,7 @@ namespace Teza_niza
             {
                 return velika_abc.IndexOf(znak) + 51;
             }
-            return 0;    
+            return 0;
         }
         static void Main(string[] args)
         {
@@ -25,26 +25,28 @@ namespace Teza_niza
             Console.WriteLine("Tehtnica: ");
             string jezik = Console.ReadLine();
             int vsota = 0;
-            string racun = "";
+            string racun = "Racun: ";
             if (jezik == "angleska")
             {
                 foreach (char znak in niz)
                 {
                     vsota += znak + 0;
+                    racun += znak + " + ";
                 }
             }
             if (jezik == "slovenska")
             {
                 foreach (char znak in niz)
                 {
-                    Console.WriteLine(Sloteža(znak));
-                    Console.WriteLine(znak);
+
                     vsota += Sloteža(znak);
-                    racun += Sloteža(znak) + " ";
+                    racun += Sloteža(znak) + " + ";
                 }
             }
-            Console.WriteLine(vsota);
+            Console.WriteLine("Teza niza: " + vsota);
+            racun = racun.Remove(racun.Length - 2, 2) + "";
             Console.WriteLine(racun);
         }
     }
+        
 }

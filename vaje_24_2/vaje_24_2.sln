@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pek", "Pek\Pek.csproj", "{D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piton", "Piton\Piton.csproj", "{B467E689-675E-4FDF-A54C-84BFB002F86D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teza_niza", "Teza_niza\Teza_niza.csproj", "{5DB06B3A-4CD2-432C-B152-0C71F521B5F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teza_niza", "Teza_niza\Teza_niza.csproj", "{5DB06B3A-4CD2-432C-B152-0C71F521B5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presledki_in_besede", "Presledki_in_besede\Presledki_in_besede.csproj", "{7BA8D0B7-A0B6-4CA2-A5FF-AD5DBCA2A1BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5DB06B3A-4CD2-432C-B152-0C71F521B5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB06B3A-4CD2-432C-B152-0C71F521B5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB06B3A-4CD2-432C-B152-0C71F521B5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA8D0B7-A0B6-4CA2-A5FF-AD5DBCA2A1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA8D0B7-A0B6-4CA2-A5FF-AD5DBCA2A1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA8D0B7-A0B6-4CA2-A5FF-AD5DBCA2A1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA8D0B7-A0B6-4CA2-A5FF-AD5DBCA2A1BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
