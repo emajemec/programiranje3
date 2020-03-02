@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ema\\Desktop\\MAT\\3. letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj": {}
+    "U:\\3.letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ema\\Desktop\\MAT\\3. letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj": {
+    "U:\\3.letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ema\\Desktop\\MAT\\3. letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj",
+        "projectUniqueName": "U:\\3.letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj",
         "projectName": "Piton_na_obisku",
-        "projectPath": "C:\\Users\\Ema\\Desktop\\MAT\\3. letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj",
-        "packagesPath": "C:\\Users\\Ema\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ema\\Desktop\\MAT\\3. letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\obj\\",
+        "projectPath": "U:\\3.letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\Piton_na_obisku.csproj",
+        "packagesPath": "C:\\Users\\JemecE16\\.nuget\\packages\\",
+        "outputPath": "U:\\3.letnik\\programiranje3\\vaje_17_2\\Piton_na_obisku\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "\\\\Spin\\JemecE16$\\_System\\ApplicationData\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,23 +42,16 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
