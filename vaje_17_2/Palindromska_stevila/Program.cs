@@ -12,12 +12,20 @@ namespace Palindromska_stevila
             Console.Write("Vnesi zgornjo mejo: ");
             int konec = int.Parse(Console.ReadLine());
             string stevila = "Med " + zacetek + " in " + konec + " imamo naslednja palindromska števila: ";
-            for (int i = zacetek; i <= konec; i++)
+            
+            for (int st = zacetek; st <= konec; st++)
             {
-                string st = i+"";
-                char[] stevilo = st.ToCharArray();
-                Array.Reverse(stevilo);
-                if (String.Equals(st, stevilo))
+                int obrat = 0;
+                int org = st;
+                while (org > 0)
+                {
+                    int ostanek = org % 10;
+                    obrat = (obrat * 10) + ostanek;
+                    org = org / 10;
+                    
+                }
+                
+                if (st == obrat)
                 {
                     stevec++;
                     stevila += st + ", ";
@@ -25,12 +33,15 @@ namespace Palindromska_stevila
             }
             if (stevec == 0)
             {
+                
                 Console.WriteLine("Med " + zacetek + " in " + konec + " ni palindromskih števil.");
             }
             else
             {
+                stevila = stevila.Remove(stevila.Length - 2, 2) + ".";
                 Console.WriteLine(stevila);
             }
+            
         }
     }
 }
