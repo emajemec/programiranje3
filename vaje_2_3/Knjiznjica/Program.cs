@@ -36,12 +36,30 @@ namespace Knjiznjica
             return niz;
             
         }
+
+        public static int[] NizKotTabela(string s)
+        {
+            string[] besede = s.Split(' ');
+            int[] stevila = new int[besede.Length];
+            int i = 0;
+            foreach (string el in besede)
+            {
+                int st = int.Parse(el);
+                stevila[i] = st;
+                i++;
+            }
+            return stevila;
+        }
         static void Main(string[] args)
         {
-            int[] tab = NakljucnaTabela(5, 8);
+            int[] tab = NakljucnaTabela(10, 100);
             Izpisi("Naključna tabela", tab);
             Console.WriteLine("");
+            Console.Write("Niz, ki ga dobimo iz tabele: ");
             Console.WriteLine(TabelaKotNiz(tab));
+            string niz = "1 2 10 12 3 45 78";
+            int[] tab2 = NizKotTabela(niz);
+            Izpisi("Tabela, ki jo dobimo iz niza: ", tab2);
         }
     }
 }
