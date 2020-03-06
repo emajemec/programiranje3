@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zamenjava_elementov", "Zame
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knjiznjica", "Knjiznjica\Knjiznjica.csproj", "{C0CEDC42-AC04-4A5B-B22D-B9BCAAD1D318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moja_datoteka", "Moja_datoteka\Moja_datoteka.csproj", "{FEE90EF1-BC6F-4EC0-911E-FF941A25E100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moja_datoteka", "Moja_datoteka\Moja_datoteka.csproj", "{FEE90EF1-BC6F-4EC0-911E-FF941A25E100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nakljucna_stevila", "Nakljucna_stevila\Nakljucna_stevila.csproj", "{604CE894-F8A6-4AF7-93A6-C058BD33A64D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nakljucna_stevila", "Nakljucna_stevila\Nakljucna_stevila.csproj", "{604CE894-F8A6-4AF7-93A6-C058BD33A64D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
