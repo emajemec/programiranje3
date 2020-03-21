@@ -38,33 +38,43 @@ namespace Prozenje_napak5
             
            
         }
+
+       
         public static int Operacije(int a, int b, string op)
         {
             string[] operatorji = { "+", "-", "/", "*"};
+           
             if (op == operatorji[0])
             {
                 return a + b;
             }
-            if (op == operatorji[1])
+            else if (op == operatorji[1])
             {
-                return a - b;
+                return a - b; // Ne moramo odšteti negativnega števila
             }
-            if (op == operatorji[2])
+            else if (op == operatorji[2])
             {
-                return a / b;
+                if (b != 0)
+                {
+                    return a / b;
+                } 
+                throw new Exception ("Deljenje z 0!");
             }
-            else
+            else if (op == operatorji[3])
             {
                 return a * b;
             }
+            throw new Exception("To ni operator!");
+            
         }
 
         static void Main(string[] args)
         {
             int a = preberiInt("Vpiši prvo število: ");
             int b = preberiInt("Vpiši drugo število: ");
-            string op = preberiOp("Vpiši operacijo: ");
+            string op = preberiOp("Vpiši operator: ");
             int rez = Operacije(a, b, op);
+
             Console.WriteLine(a + " " + op + " " + b + " = " + rez);
         }
     }
