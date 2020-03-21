@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prozenje_napak1", "Prozenje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lovljenje_napak1", "Lovljenje_napak1\Lovljenje_napak1.csproj", "{ECA4FE56-2876-4B0B-893E-11A362A01B13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lovljenje_napak2", "Lovljenje_napak2\Lovljenje_napak2.csproj", "{1E9FB100-97C2-42C1-A959-3C9E8C6644BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lovljenje_napak2", "Lovljenje_napak2\Lovljenje_napak2.csproj", "{1E9FB100-97C2-42C1-A959-3C9E8C6644BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prozenje_napak5", "Prozenje_napak5\Prozenje_napak5.csproj", "{8661F2B0-4DDE-4EBB-917E-17B3491AD5BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prozenje_napak5", "Prozenje_napak5\Prozenje_napak5.csproj", "{8661F2B0-4DDE-4EBB-917E-17B3491AD5BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bisekcija", "Bisekcija\Bisekcija.csproj", "{3C08EEB6-224E-4DC6-86B5-9DBA84E15E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{439879D4-9A6E-44EB-BBBD-01E0F1DAEAEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{8661F2B0-4DDE-4EBB-917E-17B3491AD5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8661F2B0-4DDE-4EBB-917E-17B3491AD5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8661F2B0-4DDE-4EBB-917E-17B3491AD5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C08EEB6-224E-4DC6-86B5-9DBA84E15E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C08EEB6-224E-4DC6-86B5-9DBA84E15E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C08EEB6-224E-4DC6-86B5-9DBA84E15E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C08EEB6-224E-4DC6-86B5-9DBA84E15E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439879D4-9A6E-44EB-BBBD-01E0F1DAEAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439879D4-9A6E-44EB-BBBD-01E0F1DAEAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439879D4-9A6E-44EB-BBBD-01E0F1DAEAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439879D4-9A6E-44EB-BBBD-01E0F1DAEAEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
