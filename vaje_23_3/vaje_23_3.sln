@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VrniNtiElement", "VrniNtiEl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrezTrojk", "BrezTrojk\BrezTrojk.csproj", "{98DD53D9-E755-4B88-AF96-90415218EC90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StevkeSoDelitelji", "StevkeSoDelitelji\StevkeSoDelitelji.csproj", "{B78878D0-2EDC-48C5-9425-1191CFEC918C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StevkeSoDelitelji", "StevkeSoDelitelji\StevkeSoDelitelji.csproj", "{B78878D0-2EDC-48C5-9425-1191CFEC918C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivaLaDifference", "VivaLaDifference\VivaLaDifference.csproj", "{6FCE917F-DF15-4868-923A-A429D92C75B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivaLaDifference", "VivaLaDifference\VivaLaDifference.csproj", "{6FCE917F-DF15-4868-923A-A429D92C75B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV_datoteke", "CSV_datoteke\CSV_datoteke.csproj", "{EC9BF8AA-EF6E-4AD4-91E4-9E8146A2095C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatBrezOklepajev", "DatBrezOklepajev\DatBrezOklepajev.csproj", "{6B393CC4-A746-4535-A81F-31DFF7378320}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{6FCE917F-DF15-4868-923A-A429D92C75B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FCE917F-DF15-4868-923A-A429D92C75B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FCE917F-DF15-4868-923A-A429D92C75B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9BF8AA-EF6E-4AD4-91E4-9E8146A2095C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9BF8AA-EF6E-4AD4-91E4-9E8146A2095C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9BF8AA-EF6E-4AD4-91E4-9E8146A2095C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9BF8AA-EF6E-4AD4-91E4-9E8146A2095C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B393CC4-A746-4535-A81F-31DFF7378320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B393CC4-A746-4535-A81F-31DFF7378320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B393CC4-A746-4535-A81F-31DFF7378320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B393CC4-A746-4535-A81F-31DFF7378320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
