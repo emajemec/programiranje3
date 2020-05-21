@@ -8,6 +8,7 @@ namespace Vozilo
         private double kapaciteta;
         private double poraba;
 
+     
         public double Kapaciteta
         {
             get { return this.kapaciteta; }
@@ -77,8 +78,15 @@ namespace Vozilo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Vozilo vozilo11 = new Vozilo(60, 5.8);
+            Console.WriteLine("Kapaciteta rezervoarja je " + vozilo11.Kapaciteta);
+            Console.WriteLine("Poraba goriva je " + vozilo11.Poraba);
+            
+            Console.WriteLine("S polnim rezervoarjem lahko prevozimo " + Preostalikilometri() + "kilometrov");
+           
+
         }
+
     }
 }
 
